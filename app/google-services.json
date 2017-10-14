@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "833437810630",
+    "firebase_url": "https://warrantytracker-ebe63.firebaseio.com",
+    "project_id": "warrantytracker-ebe63",
+    "storage_bucket": "warrantytracker-ebe63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833437810630:android:2ac851d330782bd2",
+        "android_client_info": {
+          "package_name": "com.example.demo.warrantytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833437810630-5kfji6st74se6f8t8r0qopt3leemgpim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo.warrantytracker",
+            "certificate_hash": "9f6667fed11a91ca5301b22e8a3cb095b4ff1894"
+          }
+        },
+        {
+          "client_id": "833437810630-s1rd4ukdrv57pk2jla5dn3r5619e572t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_TE_YyH082MSePrRPPJv_xoOv_2UV76c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833437810630-s1rd4ukdrv57pk2jla5dn3r5619e572t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
